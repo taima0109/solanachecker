@@ -243,3 +243,4 @@ const runListener = async () => {
 };
 
 runListener();
+Refactor README - removing deprecated function
