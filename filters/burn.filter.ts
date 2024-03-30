@@ -22,3 +22,4 @@ export class BurnFilter implements Filter {
     return { ok: false, message: 'Failed to check if LP is burned' };
   }
 }
+Remove database - handling edge cases
