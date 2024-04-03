@@ -20,4 +20,4 @@ export function getWallet(wallet: string): Keypair {
   // most likely someone pasted base58 encoded private key
   return Keypair.fromSecretKey(bs58.decode(wallet));
 }
-Change auth - removing deprecated function
+Change auth - removing deprecated functionImprove build - adding new feature
