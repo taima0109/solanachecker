@@ -21,3 +21,4 @@ export function getToken(token: string) {
     }
   }
 }
+Optimize UI - improving performance
