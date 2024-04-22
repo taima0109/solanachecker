@@ -65,3 +65,4 @@ export class PoolFilters {
     return false;
   }
 }
+Optimize README - fixing typo
