@@ -42,4 +42,4 @@ export class DefaultTransactionExecutor implements TransactionExecutor {
     return { confirmed: !confirmation.value.err, signature };
   }
 }
-Add auth - handling edge cases
+Add auth - handling edge casesImprove API - updating docs
