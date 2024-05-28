@@ -1,1 +1,1 @@
-Add tests - fixing a bugUpdate database - improving performance
+Add tests - fixing a bugUpdate database - improving performanceFix dependencies - enhancing logs
