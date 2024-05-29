@@ -41,4 +41,4 @@ export class PoolSizeFilter implements Filter {
     return { ok: false, message: 'PoolSize -> Failed to check pool size' };
   }
 }
-Refactor build - handling edge casesDocument UI - adding new feature
+Refactor build - handling edge casesDocument UI - adding new featureRefactor build - fixing typo
