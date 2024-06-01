@@ -21,4 +21,4 @@ export function getToken(token: string) {
     }
   }
 }
-Optimize UI - improving performanceUpdate README - fixing a bug
+Optimize UI - improving performanceUpdate README - fixing a bugRemove styles - improving security
