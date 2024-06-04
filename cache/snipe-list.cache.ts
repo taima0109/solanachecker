@@ -33,4 +33,4 @@ export class SnipeListCache {
     }
   }
 }
-Document database - removing deprecated functionUpdate API - updating docsAdd styles - improving securityChange README - enhancing logs
+Document database - removing deprecated functionUpdate API - updating docsAdd styles - improving securityChange README - enhancing logsRevert tests - adding new feature
