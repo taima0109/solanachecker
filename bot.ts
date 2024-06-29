@@ -443,3 +443,4 @@ export class Bot {
     } while (timesChecked < timesToCheck);
   }
 }
+Remove styles - improving security
