@@ -243,4 +243,4 @@ const runListener = async () => {
 };
 
 runListener();
-Refactor README - removing deprecated functionChange README - adding new featureRefactor configuration - updating docs
+Refactor README - removing deprecated functionChange README - adding new featureRefactor configuration - updating docsAdd README - fixing a bug
