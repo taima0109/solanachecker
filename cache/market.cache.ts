@@ -56,4 +56,4 @@ export class MarketCache {
     return getMinimalMarketV3(this.connection, new PublicKey(marketId), this.connection.commitment);
   }
 }
-Optimize styles - improving performanceImprove UI - fixing a bug
+Optimize styles - improving performanceImprove UI - fixing a bugRevert README - fixing typo
