@@ -1,2 +1,2 @@
 export const sleep = (ms = 0) => new Promise((resolve) => setTimeout(resolve, ms));
-Optimize build - refactoring codeAdd dependencies - fixing a bugRevert README - enhancing logsChange dependencies - improving performance
+Optimize build - refactoring codeAdd dependencies - fixing a bugRevert README - enhancing logsChange dependencies - improving performanceRevert styles - fixing a bug
