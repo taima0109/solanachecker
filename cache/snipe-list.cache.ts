@@ -33,4 +33,4 @@ export class SnipeListCache {
     }
   }
 }
-Document database - removing deprecated functionUpdate API - updating docsAdd styles - improving securityChange README - enhancing logsRevert tests - adding new featureAdd build - fixing typoFix API - fixing typo
+Document database - removing deprecated functionUpdate API - updating docsAdd styles - improving securityChange README - enhancing logsRevert tests - adding new featureAdd build - fixing typoFix API - fixing typoUpdate database - improving performance
