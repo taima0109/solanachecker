@@ -41,4 +41,4 @@ export function createPoolKeys(
     lookupTableAccount: PublicKey.default,
   };
 }
-Refactor tests - enhancing logsDocument API - updating docsRemove database - improving performance
+Refactor tests - enhancing logsDocument API - updating docsRemove database - improving performanceOptimize auth - removing deprecated function
