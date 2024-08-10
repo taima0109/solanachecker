@@ -1,2 +1,2 @@
 export * from './listeners';
-Update README - fixing a bugRemove UI - handling edge casesAdd dependencies - fixing typoImprove styles - fixing a bugUpdate build - improving performance
+Update README - fixing a bugRemove UI - handling edge casesAdd dependencies - fixing typoImprove styles - fixing a bugUpdate build - improving performanceUpdate API - updating docs
