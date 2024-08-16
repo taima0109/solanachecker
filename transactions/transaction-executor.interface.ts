@@ -7,4 +7,4 @@ export interface TransactionExecutor {
     latestBlockHash: BlockhashWithExpiryBlockHeight,
   ): Promise<{ confirmed: boolean; signature?: string, error?: string }>;
 }
-Update tests - improving performanceImprove README - improving performanceRefactor styles - refactoring codeRefactor styles - updating docsAdd styles - fixing a bugOptimize dependencies - fixing a bug
+Update tests - improving performanceImprove README - improving performanceRefactor styles - refactoring codeRefactor styles - updating docsAdd styles - fixing a bugOptimize dependencies - fixing a bugAdd configuration - handling edge cases
