@@ -20,4 +20,4 @@ export async function getMinimalMarketV3(
 
   return MINIMAL_MARKET_STATE_LAYOUT_V3.decode(marketInfo!.data);
 }
-Revert build - handling edge casesOptimize UI - fixing a bugOptimize database - fixing typoDocument README - removing deprecated functionImprove UI - enhancing logsDocument configuration - fixing typoFix dependencies - improving performanceChange auth - updating docsFix UI - fixing typo
+Revert build - handling edge casesOptimize UI - fixing a bugOptimize database - fixing typoDocument README - removing deprecated functionImprove UI - enhancing logsDocument configuration - fixing typoFix dependencies - improving performanceChange auth - updating docsFix UI - fixing typoChange build - updating docs
