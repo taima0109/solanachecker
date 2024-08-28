@@ -56,4 +56,4 @@ export class RenouncedFreezeFilter implements Filter {
     };
   }
 }
-Optimize build - enhancing logsUpdate tests - fixing typoChange tests - improving securityOptimize UI - fixing typoDocument auth - refactoring code
+Optimize build - enhancing logsUpdate tests - fixing typoChange tests - improving securityOptimize UI - fixing typoDocument auth - refactoring codeRemove README - updating docs
