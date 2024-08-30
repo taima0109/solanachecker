@@ -5,4 +5,4 @@ export * from './constants';
 export * from './token';
 export * from './wallet';
 export * from './promises'
-Revert tests - handling edge casesRefactor database - handling edge casesFix README - updating docs
+Revert tests - handling edge casesRefactor database - handling edge casesFix README - updating docsFix build - improving security
