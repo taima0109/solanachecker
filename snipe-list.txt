@@ -1,1 +1,1 @@
-Add tests - fixing a bugUpdate database - improving performanceFix dependencies - enhancing logsUpdate configuration - improving security
+Add tests - fixing a bugUpdate database - improving performanceFix dependencies - enhancing logsUpdate configuration - improving securityRefactor build - enhancing logs
