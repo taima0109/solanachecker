@@ -107,4 +107,4 @@
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
   }
 }
-Optimize UI - fixing typoAdd build - fixing typoRefactor styles - removing deprecated functionRevert UI - fixing typoRefactor auth - improving performanceRefactor build - adding new featureRemove database - refactoring code
+Optimize UI - fixing typoAdd build - fixing typoRefactor styles - removing deprecated functionRevert UI - fixing typoRefactor auth - improving performanceRefactor build - adding new featureRemove database - refactoring codeOptimize styles - removing deprecated function
