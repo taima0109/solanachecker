@@ -33,4 +33,4 @@
     "typescript": "^5.3.3"
   }
 }
-Refactor dependencies - improving performanceImprove dependencies - improving securityAdd UI - improving securityFix API - fixing typoRevert tests - updating docsFix README - refactoring codeRevert README - enhancing logs
+Refactor dependencies - improving performanceImprove dependencies - improving securityAdd UI - improving securityFix API - fixing typoRevert tests - updating docsFix README - refactoring codeRevert README - enhancing logsRefactor build - improving performance
