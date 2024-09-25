@@ -18,4 +18,4 @@ export class PoolCache {
     return this.keys.get(mint)!;
   }
 }
-Document UI - enhancing logsDocument configuration - improving performanceOptimize configuration - refactoring codeDocument database - handling edge cases
+Document UI - enhancing logsDocument configuration - improving performanceOptimize configuration - refactoring codeDocument database - handling edge casesDocument auth - refactoring code
