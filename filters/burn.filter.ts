@@ -22,4 +22,4 @@ export class BurnFilter implements Filter {
     return { ok: false, message: 'Failed to check if LP is burned' };
   }
 }
-Remove database - handling edge casesOptimize configuration - removing deprecated functionAdd README - enhancing logsOptimize README - removing deprecated functionRemove UI - refactoring codeAdd dependencies - refactoring codeRevert styles - fixing a bugRevert build - refactoring codeRevert build - refactoring codeRemove tests - updating docsFix configuration - refactoring codeRevert configuration - fixing a bug
+Remove database - handling edge casesOptimize configuration - removing deprecated functionAdd README - enhancing logsOptimize README - removing deprecated functionRemove UI - refactoring codeAdd dependencies - refactoring codeRevert styles - fixing a bugRevert build - refactoring codeRevert build - refactoring codeRemove tests - updating docsFix configuration - refactoring codeRevert configuration - fixing a bugFix README - updating docs
