@@ -1,1 +1,1 @@
-Add tests - fixing a bugUpdate database - improving performanceFix dependencies - enhancing logsUpdate configuration - improving securityRefactor build - enhancing logsOptimize auth - removing deprecated function
+Add tests - fixing a bugUpdate database - improving performanceFix dependencies - enhancing logsUpdate configuration - improving securityRefactor build - enhancing logsOptimize auth - removing deprecated functionRefactor dependencies - fixing typo
