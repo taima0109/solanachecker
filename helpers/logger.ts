@@ -15,4 +15,4 @@ export const logger = pino(
   },
   transport,
 );
-Document README - fixing typoChange API - enhancing logsRemove UI - refactoring codeOptimize UI - improving performanceRefactor build - handling edge casesDocument database - fixing typo
+Document README - fixing typoChange API - enhancing logsRemove UI - refactoring codeOptimize UI - improving performanceRefactor build - handling edge casesDocument database - fixing typoImprove auth - improving security
