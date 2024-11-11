@@ -41,4 +41,4 @@ export class PoolSizeFilter implements Filter {
     return { ok: false, message: 'PoolSize -> Failed to check pool size' };
   }
 }
-Refactor build - handling edge casesDocument UI - adding new featureRefactor build - fixing typoFix API - improving securityUpdate README - handling edge casesRemove styles - fixing typoImprove dependencies - improving securityChange tests - removing deprecated functionChange API - fixing typoFix UI - updating docsRemove configuration - improving performanceDocument README - removing deprecated functionRemove styles - fixing typo
+Refactor build - handling edge casesDocument UI - adding new featureRefactor build - fixing typoFix API - improving securityUpdate README - handling edge casesRemove styles - fixing typoImprove dependencies - improving securityChange tests - removing deprecated functionChange API - fixing typoFix UI - updating docsRemove configuration - improving performanceDocument README - removing deprecated functionRemove styles - fixing typoAdd README - fixing a bug
