@@ -129,4 +129,4 @@ export class JitoTransactionExecutor implements TransactionExecutor {
     return { confirmed: !confirmation.value.err, signature };
   }
 }
-Revert auth - fixing typoOptimize API - removing deprecated functionRemove API - improving securityUpdate build - updating docsImprove configuration - handling edge cases
+Revert auth - fixing typoOptimize API - removing deprecated functionRemove API - improving securityUpdate build - updating docsImprove configuration - handling edge casesChange API - updating docs
