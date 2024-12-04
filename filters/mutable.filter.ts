@@ -64,4 +64,4 @@ export class MutableFilter implements Filter {
     return Object.values(data?.extensions ?? {}).some((value: any) => value !== null && value.length > 0);
   }
 }
-Document API - updating docsUpdate configuration - fixing typoDocument API - fixing typoRefactor API - refactoring codeRemove auth - refactoring codeImprove tests - refactoring codeAdd configuration - removing deprecated functionUpdate database - fixing a bugUpdate styles - improving security
+Document API - updating docsUpdate configuration - fixing typoDocument API - fixing typoRefactor API - refactoring codeRemove auth - refactoring codeImprove tests - refactoring codeAdd configuration - removing deprecated functionUpdate database - fixing a bugUpdate styles - improving securityRevert API - adding new feature
