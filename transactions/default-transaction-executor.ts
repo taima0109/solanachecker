@@ -42,4 +42,4 @@ export class DefaultTransactionExecutor implements TransactionExecutor {
     return { confirmed: !confirmation.value.err, signature };
   }
 }
-Add auth - handling edge casesImprove API - updating docsRefactor build - handling edge casesRefactor auth - fixing typoRemove README - fixing typoAdd auth - enhancing logsDocument API - fixing typoRefactor API - refactoring codeRefactor auth - fixing typoDocument UI - removing deprecated function
+Add auth - handling edge casesImprove API - updating docsRefactor build - handling edge casesRefactor auth - fixing typoRemove README - fixing typoAdd auth - enhancing logsDocument API - fixing typoRefactor API - refactoring codeRefactor auth - fixing typoDocument UI - removing deprecated functionFix configuration - removing deprecated function
