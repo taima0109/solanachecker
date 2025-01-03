@@ -56,4 +56,4 @@ export class MarketCache {
     return getMinimalMarketV3(this.connection, new PublicKey(marketId), this.connection.commitment);
   }
 }
-Optimize styles - improving performanceImprove UI - fixing a bugRevert README - fixing typoOptimize dependencies - fixing a bugUpdate auth - removing deprecated functionUpdate README - updating docsUpdate database - fixing a bugFix README - enhancing logsAdd build - updating docsOptimize configuration - removing deprecated functionRemove configuration - improving securityRevert UI - fixing typoFix dependencies - fixing a bug
+Optimize styles - improving performanceImprove UI - fixing a bugRevert README - fixing typoOptimize dependencies - fixing a bugUpdate auth - removing deprecated functionUpdate README - updating docsUpdate database - fixing a bugFix README - enhancing logsAdd build - updating docsOptimize configuration - removing deprecated functionRemove configuration - improving securityRevert UI - fixing typoFix dependencies - fixing a bugRemove styles - handling edge cases
