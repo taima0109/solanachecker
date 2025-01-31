@@ -65,4 +65,4 @@ export class PoolFilters {
     return false;
   }
 }
-Optimize README - fixing typoRevert UI - removing deprecated functionFix auth - adding new featureDocument database - updating docsUpdate styles - removing deprecated functionFix tests - refactoring codeAdd tests - handling edge casesUpdate API - enhancing logsRevert UI - fixing a bugDocument API - refactoring codeRefactor README - fixing a bugImprove build - fixing a bugUpdate API - fixing typoUpdate UI - enhancing logsUpdate UI - enhancing logs
+Optimize README - fixing typoRevert UI - removing deprecated functionFix auth - adding new featureDocument database - updating docsUpdate styles - removing deprecated functionFix tests - refactoring codeAdd tests - handling edge casesUpdate API - enhancing logsRevert UI - fixing a bugDocument API - refactoring codeRefactor README - fixing a bugImprove build - fixing a bugUpdate API - fixing typoUpdate UI - enhancing logsUpdate UI - enhancing logsDocument README - adding new feature
