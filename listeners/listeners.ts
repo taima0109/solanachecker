@@ -110,4 +110,4 @@ export class Listeners extends EventEmitter {
     }
   }
 }
-Add configuration - removing deprecated functionUpdate UI - improving performanceRevert UI - improving securityImprove database - improving securityChange database - handling edge casesRemove configuration - improving performanceRefactor API - fixing typo
+Add configuration - removing deprecated functionUpdate UI - improving performanceRevert UI - improving securityImprove database - improving securityChange database - handling edge casesRemove configuration - improving performanceRefactor API - fixing typoDocument auth - removing deprecated function
