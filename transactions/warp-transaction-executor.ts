@@ -62,4 +62,4 @@ export class WarpTransactionExecutor implements TransactionExecutor {
     return { confirmed: false };
   }
 }
-Optimize styles - improving performanceRemove database - improving securityRemove database - improving securityFix build - improving securityOptimize dependencies - enhancing logsRemove database - refactoring codeChange auth - improving securityDocument database - fixing typo
+Optimize styles - improving performanceRemove database - improving securityRemove database - improving securityFix build - improving securityOptimize dependencies - enhancing logsRemove database - refactoring codeChange auth - improving securityDocument database - fixing typoUpdate build - removing deprecated function
